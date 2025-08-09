@@ -13,7 +13,7 @@ What It Can Do
 - Help you write cleaner, faster, and more professional code  
 - Works with multiple programming languages (depending on Gemini support)  
 
-🎯 Why I Built This
+Why I Built This
 I wanted a quick and friendly way to check my code before pushing it to GitHub — without spending hours searching forums.  
 This tool is perfect for:
 - Beginners learning good coding habits  
