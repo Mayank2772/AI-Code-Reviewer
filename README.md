@@ -3,7 +3,7 @@ AI Code Reviewer (Powered by Gemini API)
 Paste your code → Get instant feedback → Write better code
 
 A simple yet powerful **AI-powered code review tool** that helps you improve your code in seconds.  
-1.Write or paste your code in the built-in editor  
+1.Write or paste your code in the built-in editor
 2.Get instant, plain-language feedback powered by the Gemini API  
 3.See suggestions to improve performance, readability, and best practices  
 
